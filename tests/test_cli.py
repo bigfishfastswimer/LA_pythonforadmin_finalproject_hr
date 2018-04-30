@@ -1,6 +1,7 @@
 import pytest
 
 from hr import cli
+from sys import path
 
 @pytest.fixture
 def parser():
