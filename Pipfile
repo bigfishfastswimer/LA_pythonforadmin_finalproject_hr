@@ -8,6 +8,7 @@ name = "pypi"
 request = "*"
 
 [dev-packages]
+pytest-mock = "*"
 
 [requires]
 python_version = "3.6"
